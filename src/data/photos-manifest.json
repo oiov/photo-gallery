@@ -372,6 +372,114 @@
     }
   },
   {
+    "id": "e6549645f350747b523ec5f51f89ecbb",
+    "title": "e6549645f350747b523ec5f51f89ecbb",
+    "description": "",
+    "dateTaken": "2025-05-18T22:16:41.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/2025/05/e6549645f350747b523ec5f51f89ecbb.jpg",
+    "thumbnailUrl": "/thumbnails/e6549645f350747b523ec5f51f89ecbb.webp",
+    "blurhash": "UDD+_7%g0Kae00M_-:RkyDof%Lxu~VR,9aoJ",
+    "width": 7008,
+    "height": 4672,
+    "aspectRatio": 1.5,
+    "s3Key": "2025/05/e6549645f350747b523ec5f51f89ecbb.jpg",
+    "lastModified": "2025-05-27T12:16:15.769Z",
+    "size": 16221282,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "YResolution": 350,
+        "XResolution": 350,
+        "ImageWidth": 7008,
+        "Software": "ILCE-7CM2 v2.00",
+        "ImageLength": 4672,
+        "YCbCrPositioning": 2,
+        "ExifTag": 154,
+        "Orientation": 1,
+        "ResolutionUnit": 2
+      },
+      "Thumbnail": {
+        "YResolution": 72,
+        "Orientation": 1,
+        "Compression": 6,
+        "JPEGInterchangeFormat": 39352,
+        "JPEGInterchangeFormatLength": 5441,
+        "XResolution": 72,
+        "Software": "ILCE-7CM2 v2.00",
+        "YCbCrPositioning": 2,
+        "ResolutionUnit": 2
+      },
+      "Photo": {
+        "ExifVersion": "0232",
+        "SceneType": {
+          "0": 1
+        },
+        "ExposureBiasValue": 0,
+        "ExposureProgram": 3,
+        "ColorSpace": 1,
+        "MaxApertureValue": 2.640625,
+        "PixelYDimension": 4672,
+        "BrightnessValue": -5.51015625,
+        "DateTimeOriginal": "2025-05-18T22:16:41.000Z",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "SubSecTimeOriginal": "565",
+        "WhiteBalance": 0,
+        "InteroperabilityTag": 39188,
+        "RecommendedExposureIndex": 1000,
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "ExposureTime": 0.3333333333333333,
+        "OffsetTime": "+08:00",
+        "Flash": 16,
+        "SubSecTime": "565",
+        "FNumber": 2.5,
+        "PixelXDimension": 7008,
+        "Saturation": 0,
+        "ISOSpeedRatings": 1000,
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "FileSource": {
+          "0": 3
+        },
+        "FocalLengthIn35mmFilm": 40,
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
+        "LensModel": "FE 40mm F2.5 G",
+        "CompressedBitsPerPixel": 4,
+        "SubSecTimeDigitized": "565",
+        "Contrast": 0,
+        "Sharpness": 0,
+        "DigitalZoomRatio": 1,
+        "DateTimeDigitized": "2025-05-18T22:16:41.000Z",
+        "MeteringMode": 5,
+        "FocalLength": 40,
+        "SensitivityType": 2,
+        "OffsetTimeOriginal": "+08:00",
+        "SceneCaptureType": 0,
+        "LightSource": 0
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98"
+      }
+    }
+  },
+  {
     "id": "DSC02349",
     "title": "DSC02349",
     "description": "",
