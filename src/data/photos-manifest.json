@@ -1,118 +1,38 @@
 [
   {
-    "id": "DSC02275",
-    "title": "DSC02275",
+    "id": "TinySnap-2025-05-24-22.46.09",
+    "title": "TinySnap 22.46.09",
     "description": "",
-    "dateTaken": "2023-09-10T12:21:48.000Z",
+    "dateTaken": "2025-05-24T00:00:00.000Z",
     "views": 0,
     "tags": [],
-    "originalUrl": "https://photos-r2.oiov.dev/photos/photos/DSC02275.JPG",
-    "thumbnailUrl": "/thumbnails/DSC02275.webp",
-    "blurhash": "UPQmCqWAx^?v~qj[ofozIVayWBay-=ayj[j]",
-    "width": 5472,
-    "height": 3648,
-    "aspectRatio": 1.5,
-    "s3Key": "photos/DSC02275.JPG",
-    "lastModified": "2025-05-27T10:28:41.850Z",
-    "size": 7156878,
-    "exif": {
-      "bigEndian": false,
-      "Image": {
-        "Make": "SONY",
-        "Model": "DSC-RX100M3",
-        "Orientation": 1,
-        "XResolution": 350,
-        "YResolution": 350,
-        "ResolutionUnit": 2,
-        "Software": "DSC-RX100M3 v2.00",
-        "DateTime": "2023-09-10T12:21:48.000Z",
-        "YCbCrPositioning": 2,
-        "ExifTag": 290
-      },
-      "Thumbnail": {
-        "Compression": 6,
-        "Make": "SONY",
-        "Model": "DSC-RX100M3",
-        "Orientation": 1,
-        "XResolution": 72,
-        "YResolution": 72,
-        "ResolutionUnit": 2,
-        "Software": "DSC-RX100M3 v2.00",
-        "DateTime": "2023-09-10T12:21:48.000Z",
-        "JPEGInterchangeFormat": 31948,
-        "JPEGInterchangeFormatLength": 3647,
-        "YCbCrPositioning": 2
-      },
-      "Photo": {
-        "ExposureTime": 0.03333333333333333,
-        "FNumber": 2.8,
-        "ExposureProgram": 3,
-        "ISOSpeedRatings": 125,
-        "SensitivityType": 2,
-        "RecommendedExposureIndex": 125,
-        "ExifVersion": {
-          "0": 48,
-          "1": 50,
-          "2": 51,
-          "3": 48
-        },
-        "DateTimeOriginal": "2023-09-10T12:21:48.000Z",
-        "DateTimeDigitized": "2023-09-10T12:21:48.000Z",
-        "ComponentsConfiguration": {
-          "0": 1,
-          "1": 2,
-          "2": 3,
-          "3": 0
-        },
-        "CompressedBitsPerPixel": 3,
-        "BrightnessValue": 2.7671875,
-        "ExposureBiasValue": 0,
-        "MaxApertureValue": 2.96875,
-        "MeteringMode": 5,
-        "LightSource": 0,
-        "Flash": 79,
-        "FocalLength": 17.7,
-        "FlashpixVersion": {
-          "0": 48,
-          "1": 49,
-          "2": 48,
-          "3": 48
-        },
-        "ColorSpace": 1,
-        "PixelXDimension": 5472,
-        "PixelYDimension": 3648,
-        "InteroperabilityTag": 31652,
-        "FileSource": {
-          "0": 3
-        },
-        "SceneType": {
-          "0": 1
-        },
-        "CustomRendered": 0,
-        "ExposureMode": 0,
-        "WhiteBalance": 0,
-        "DigitalZoomRatio": 1,
-        "FocalLengthIn35mmFilm": 48,
-        "SceneCaptureType": 0,
-        "Contrast": 0,
-        "Saturation": 0,
-        "Sharpness": 0,
-        "LensSpecification": [
-          8.8,
-          25.7,
-          1.8,
-          2.8
-        ]
-      },
-      "Iop": {
-        "InteroperabilityIndex": "R98",
-        "InteroperabilityVersion": {
-          "0": 48,
-          "1": 49,
-          "2": 48,
-          "3": 48
-        }
-      }
-    }
+    "originalUrl": "https://photos-r2.oiov.dev/TinySnap-2025-05-24-22.46.09.png",
+    "thumbnailUrl": "/thumbnails/TinySnap-2025-05-24-22.46.09.webp",
+    "blurhash": "UZR3i^-;^ho#~WR*E2xu-PWCI[s-p0oe%1R*",
+    "width": 2880,
+    "height": 1579,
+    "aspectRatio": 1.8239392020265992,
+    "s3Key": "TinySnap-2025-05-24-22.46.09.png",
+    "lastModified": "2025-05-27T11:04:13.957Z",
+    "size": 1444835,
+    "exif": null
+  },
+  {
+    "id": "TinySnap-2025-05-20-22.21.42",
+    "title": "TinySnap 22.21.42",
+    "description": "",
+    "dateTaken": "2025-05-20T00:00:00.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/TinySnap-2025-05-20-22.21.42.png",
+    "thumbnailUrl": "/thumbnails/TinySnap-2025-05-20-22.21.42.webp",
+    "blurhash": "UGI=Mq%M00M{-;j[IUay00WB~qt7%MfQM{j[",
+    "width": 2700,
+    "height": 1583,
+    "aspectRatio": 1.7056222362602653,
+    "s3Key": "TinySnap-2025-05-20-22.21.42.png",
+    "lastModified": "2025-05-27T11:09:56.696Z",
+    "size": 340596,
+    "exif": null
   }
 ]
