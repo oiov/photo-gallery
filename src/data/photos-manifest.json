@@ -1,5 +1,873 @@
 [
   {
+    "id": "DSC02410",
+    "title": "DSC02410",
+    "description": "",
+    "dateTaken": "2025-05-29T21:08:12.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/DSC02410.JPG",
+    "thumbnailUrl": "/thumbnails/DSC02410.webp",
+    "blurhash": "U055LQxv009Z00xu~q%2JBIo^+%2~q-;00D*",
+    "width": 7008,
+    "height": 4672,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC02410.JPG",
+    "lastModified": "2025-05-29T13:47:24.471Z",
+    "size": 22334065,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 350,
+        "YResolution": 350,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:08:12.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 320
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:08:12.000Z",
+        "JPEGInterchangeFormat": 39618,
+        "JPEGInterchangeFormatLength": 3497,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.00625,
+        "FNumber": 2.5,
+        "ExposureProgram": 4,
+        "ISOSpeedRatings": 6400,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 6400,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-05-29T21:08:12.000Z",
+        "DateTimeDigitized": "2025-05-29T21:08:12.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 5,
+        "BrightnessValue": -3.95546875,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 2.640625,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 40,
+        "SubSecTime": "055",
+        "SubSecTimeOriginal": "055",
+        "SubSecTimeDigitized": "055",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7008,
+        "PixelYDimension": 4672,
+        "InteroperabilityTag": 39370,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 1,
+        "FocalLengthIn35mmFilm": 40,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
+        "LensModel": "FE 40mm F2.5 G",
+        "CompositeImage": 0
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "DSC02409",
+    "title": "DSC02409",
+    "description": "",
+    "dateTaken": "2025-05-29T21:08:04.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/DSC02409.JPG",
+    "thumbnailUrl": "/thumbnails/DSC02409.webp",
+    "blurhash": "U15}pw-;000K00WB~q%M4.IU~W?H~q-;4n9F",
+    "width": 7008,
+    "height": 4672,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC02409.JPG",
+    "lastModified": "2025-05-29T13:47:21.319Z",
+    "size": 22149235,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 350,
+        "YResolution": 350,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:08:04.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 320
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:08:04.000Z",
+        "JPEGInterchangeFormat": 39618,
+        "JPEGInterchangeFormatLength": 3925,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.00625,
+        "FNumber": 2.5,
+        "ExposureProgram": 4,
+        "ISOSpeedRatings": 6400,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 6400,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-05-29T21:08:04.000Z",
+        "DateTimeDigitized": "2025-05-29T21:08:04.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 5,
+        "BrightnessValue": -3.58046875,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 2.640625,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 40,
+        "SubSecTime": "996",
+        "SubSecTimeOriginal": "996",
+        "SubSecTimeDigitized": "996",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7008,
+        "PixelYDimension": 4672,
+        "InteroperabilityTag": 39370,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 1,
+        "FocalLengthIn35mmFilm": 40,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
+        "LensModel": "FE 40mm F2.5 G",
+        "CompositeImage": 0
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "DSC02401",
+    "title": "DSC02401",
+    "description": "",
+    "dateTaken": "2025-05-29T21:07:04.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/DSC02401.JPG",
+    "thumbnailUrl": "/thumbnails/DSC02401.webp",
+    "blurhash": "U36@~6?b000001IU%L%L4oM{~W^+?vx]D%9F",
+    "width": 7008,
+    "height": 4672,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC02401.JPG",
+    "lastModified": "2025-05-29T13:47:16.018Z",
+    "size": 21458088,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 350,
+        "YResolution": 350,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:07:04.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 320
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:07:04.000Z",
+        "JPEGInterchangeFormat": 39618,
+        "JPEGInterchangeFormatLength": 4505,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.00625,
+        "FNumber": 2.5,
+        "ExposureProgram": 4,
+        "ISOSpeedRatings": 6400,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 6400,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-05-29T21:07:04.000Z",
+        "DateTimeDigitized": "2025-05-29T21:07:04.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 5,
+        "BrightnessValue": -4.01796875,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 2.640625,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 40,
+        "SubSecTime": "799",
+        "SubSecTimeOriginal": "799",
+        "SubSecTimeDigitized": "799",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7008,
+        "PixelYDimension": 4672,
+        "InteroperabilityTag": 39370,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 1,
+        "FocalLengthIn35mmFilm": 40,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
+        "LensModel": "FE 40mm F2.5 G",
+        "CompositeImage": 0
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "DSC02400",
+    "title": "DSC02400",
+    "description": "",
+    "dateTaken": "2025-05-29T21:07:00.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/DSC02400.JPG",
+    "thumbnailUrl": "/thumbnails/DSC02400.webp",
+    "blurhash": "U26RJs?b000000IU?b-;56Rj^+-:~q%M4n4n",
+    "width": 7008,
+    "height": 4672,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC02400.JPG",
+    "lastModified": "2025-05-29T13:47:36.105Z",
+    "size": 21167575,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 350,
+        "YResolution": 350,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:07:00.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 320
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:07:00.000Z",
+        "JPEGInterchangeFormat": 39618,
+        "JPEGInterchangeFormatLength": 4431,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.00625,
+        "FNumber": 2.5,
+        "ExposureProgram": 4,
+        "ISOSpeedRatings": 6400,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 6400,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-05-29T21:07:00.000Z",
+        "DateTimeDigitized": "2025-05-29T21:07:00.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 5,
+        "BrightnessValue": -4.22109375,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 2.640625,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 40,
+        "SubSecTime": "841",
+        "SubSecTimeOriginal": "841",
+        "SubSecTimeDigitized": "841",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7008,
+        "PixelYDimension": 4672,
+        "InteroperabilityTag": 39370,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 1,
+        "FocalLengthIn35mmFilm": 40,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
+        "LensModel": "FE 40mm F2.5 G",
+        "CompositeImage": 0
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "DSC02397",
+    "title": "DSC02397",
+    "description": "",
+    "dateTaken": "2025-05-29T21:06:02.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/DSC02397.JPG",
+    "thumbnailUrl": "/thumbnails/DSC02397.webp",
+    "blurhash": "U8A0?#4n4nWBx^Di?bRjIUD%~qWB-;M{IUWB",
+    "width": 7008,
+    "height": 4672,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC02397.JPG",
+    "lastModified": "2025-05-29T13:47:14.548Z",
+    "size": 17293028,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 350,
+        "YResolution": 350,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:06:02.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 320
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:06:02.000Z",
+        "JPEGInterchangeFormat": 39618,
+        "JPEGInterchangeFormatLength": 6644,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.00625,
+        "FNumber": 2.5,
+        "ExposureProgram": 4,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-05-29T21:06:02.000Z",
+        "DateTimeDigitized": "2025-05-29T21:06:02.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 4,
+        "BrightnessValue": -7.86953125,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 2.640625,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 40,
+        "SubSecTime": "786",
+        "SubSecTimeOriginal": "786",
+        "SubSecTimeDigitized": "786",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7008,
+        "PixelYDimension": 4672,
+        "InteroperabilityTag": 39370,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 1,
+        "FocalLengthIn35mmFilm": 40,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
+        "LensModel": "FE 40mm F2.5 G",
+        "CompositeImage": 0
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "DSC02394",
+    "title": "DSC02394",
+    "description": "",
+    "dateTaken": "2025-05-29T21:05:24.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/DSC02394.JPG",
+    "thumbnailUrl": "/thumbnails/DSC02394.webp",
+    "blurhash": "U15#eK%M00VZ000K-;^+-pX7%M-q~WR*4nsC",
+    "width": 7008,
+    "height": 4672,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC02394.JPG",
+    "lastModified": "2025-05-29T13:47:11.261Z",
+    "size": 13585880,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 350,
+        "YResolution": 350,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:05:24.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 320
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T21:05:24.000Z",
+        "JPEGInterchangeFormat": 39618,
+        "JPEGInterchangeFormatLength": 4437,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.00625,
+        "FNumber": 2.5,
+        "ExposureProgram": 4,
+        "ISOSpeedRatings": 100,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 100,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-05-29T21:05:24.000Z",
+        "DateTimeDigitized": "2025-05-29T21:05:24.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 3,
+        "BrightnessValue": -2.5609375,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 2.640625,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 40,
+        "SubSecTime": "705",
+        "SubSecTimeOriginal": "705",
+        "SubSecTimeDigitized": "705",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7008,
+        "PixelYDimension": 4672,
+        "InteroperabilityTag": 39370,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 1,
+        "FocalLengthIn35mmFilm": 40,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
+        "LensModel": "FE 40mm F2.5 G",
+        "CompositeImage": 0
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    }
+  },
+  {
+    "id": "DSC02374",
+    "title": "DSC02374",
+    "description": "",
+    "dateTaken": "2025-05-29T18:57:04.000Z",
+    "views": 0,
+    "tags": [],
+    "originalUrl": "https://photos-r2.oiov.dev/DSC02374.JPG",
+    "thumbnailUrl": "/thumbnails/DSC02374.webp",
+    "blurhash": "UEI=Pxxuj?^+?w-poeRj%MayM{WBD$D%Rj-;",
+    "width": 7008,
+    "height": 4672,
+    "aspectRatio": 1.5,
+    "s3Key": "DSC02374.JPG",
+    "lastModified": "2025-05-29T13:47:13.701Z",
+    "size": 16299523,
+    "exif": {
+      "bigEndian": false,
+      "Image": {
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 350,
+        "YResolution": 350,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T18:57:04.000Z",
+        "YCbCrPositioning": 2,
+        "ExifTag": 320
+      },
+      "Thumbnail": {
+        "Compression": 6,
+        "Make": "SONY",
+        "Model": "ILCE-7CM2",
+        "Orientation": 1,
+        "XResolution": 72,
+        "YResolution": 72,
+        "ResolutionUnit": 2,
+        "Software": "ILCE-7CM2 v2.00",
+        "DateTime": "2025-05-29T18:57:04.000Z",
+        "JPEGInterchangeFormat": 39618,
+        "JPEGInterchangeFormatLength": 6573,
+        "YCbCrPositioning": 2
+      },
+      "Photo": {
+        "ExposureTime": 0.00625,
+        "FNumber": 2.5,
+        "ExposureProgram": 4,
+        "ISOSpeedRatings": 1000,
+        "SensitivityType": 2,
+        "RecommendedExposureIndex": 1000,
+        "ExifVersion": {
+          "0": 48,
+          "1": 50,
+          "2": 51,
+          "3": 50
+        },
+        "DateTimeOriginal": "2025-05-29T18:57:04.000Z",
+        "DateTimeDigitized": "2025-05-29T18:57:04.000Z",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ComponentsConfiguration": {
+          "0": 1,
+          "1": 2,
+          "2": 3,
+          "3": 0
+        },
+        "CompressedBitsPerPixel": 4,
+        "BrightnessValue": 2.51328125,
+        "ExposureBiasValue": 0,
+        "MaxApertureValue": 2.640625,
+        "MeteringMode": 5,
+        "LightSource": 0,
+        "Flash": 16,
+        "FocalLength": 40,
+        "SubSecTime": "226",
+        "SubSecTimeOriginal": "226",
+        "SubSecTimeDigitized": "226",
+        "FlashpixVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        },
+        "ColorSpace": 1,
+        "PixelXDimension": 7008,
+        "PixelYDimension": 4672,
+        "InteroperabilityTag": 39370,
+        "FileSource": {
+          "0": 3
+        },
+        "SceneType": {
+          "0": 1
+        },
+        "CustomRendered": 0,
+        "ExposureMode": 0,
+        "WhiteBalance": 0,
+        "DigitalZoomRatio": 1,
+        "FocalLengthIn35mmFilm": 40,
+        "SceneCaptureType": 0,
+        "Contrast": 0,
+        "Saturation": 0,
+        "Sharpness": 0,
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
+        "LensModel": "FE 40mm F2.5 G",
+        "CompositeImage": 0
+      },
+      "Iop": {
+        "InteroperabilityIndex": "R98",
+        "InteroperabilityVersion": {
+          "0": 48,
+          "1": 49,
+          "2": 48,
+          "3": 48
+        }
+      }
+    }
+  },
+  {
     "id": "mmexport1744383295405",
     "title": "mmexport1744383295405",
     "description": "",
