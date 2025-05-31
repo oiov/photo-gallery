@@ -1,3 +1,4 @@
+import clsx from 'clsx'
 import { m } from 'motion/react'
 import { useRef, useState } from 'react'
 import { Blurhash } from 'react-blurhash'
@@ -8,8 +9,12 @@ import {
   StreamlineImageAccessoriesLensesPhotosCameraShutterPicturePhotographyPicturesPhotoLens,
   TablerAperture,
 } from '~/icons'
-import { clsxm } from '~/lib/cn'
 import type { PhotoManifest } from '~/types/photo'
+
+import styles from './photo.module.css'
+
+const isSafari =
+  /Safari/.test(navigator.userAgent) && !/Chrome/.test(navigator.userAgent)
 
 export const PhotoMasonryItem = ({
   data,
@@ -49,6 +54,17 @@ export const PhotoMasonryItem = ({
   // 格式化 EXIF 数据
   const formatExifData = () => {
     const { exif } = data
+
+    // 安全处理：如果 exif 不存在或为空，则返回空对象
+    if (!exif) {
+      return {
+        focalLength35mm: null,
+        iso: null,
+        shutterSpeed: null,
+        aperture: null,
+      }
+    }
+
     const photo = exif.Photo || {}
     const image = exif.Image || {}
 
@@ -91,7 +107,7 @@ export const PhotoMasonryItem = ({
       onClick={handleClick}
     >
       {/* Blurhash 占位符 */}
-      {data.blurhash && !imageLoaded && !imageError && (
+      {data.blurhash && (
         <Blurhash
           hash={data.blurhash}
           width="100%"
@@ -104,20 +120,16 @@ export const PhotoMasonryItem = ({
       )}
 
       {!imageError && (
-        <m.img
+        <img
           ref={imageRef}
           src={data.thumbnailUrl}
           alt={data.title}
-          className={clsxm(
-            'absolute inset-0 h-full w-full object-cover transition-all duration-500 group-hover:scale-105',
-            imageLoaded ? 'opacity-100' : 'opacity-0',
+          className={clsx(
+            'absolute inset-0 h-full w-full object-cover duration-300 group-hover:scale-105',
+            !isSafari ? (imageLoaded ? styles.loaded : 'opacity-0') : '',
           )}
           onLoad={handleImageLoad}
           onError={handleImageError}
-          initial={{ opacity: 0 }}
-          animate={{ opacity: imageLoaded ? 1 : 0 }}
-          transition={{ duration: 0.5 }}
-          loading="lazy"
         />
       )}
 
