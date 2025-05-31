@@ -103,7 +103,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -222,7 +227,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -341,7 +351,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -460,7 +475,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -579,7 +599,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -698,7 +723,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -817,7 +847,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -964,7 +999,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -1083,7 +1123,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -1202,7 +1247,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -1300,7 +1350,12 @@
           "0": 3
         },
         "FocalLengthIn35mmFilm": 40,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompressedBitsPerPixel": 4,
         "SubSecTimeDigitized": "565",
@@ -1403,7 +1458,12 @@
           "0": 3
         },
         "FocalLengthIn35mmFilm": 40,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompressedBitsPerPixel": 4,
         "SubSecTimeDigitized": "741",
@@ -1527,7 +1587,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -1646,7 +1711,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -1765,7 +1835,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -1884,7 +1959,12 @@
         "Contrast": 0,
         "Saturation": 0,
         "Sharpness": 0,
-        "LensSpecification": [40, 40, 2.5, 2.5],
+        "LensSpecification": [
+          40,
+          40,
+          2.5,
+          2.5
+        ],
         "LensModel": "FE 40mm F2.5 G",
         "CompositeImage": 0
       },
@@ -2001,7 +2081,11 @@
         "SensingMethod": 1
       },
       "GPSInfo": {
-        "GPSLatitude": [29, 33, 57.636],
+        "GPSLatitude": [
+          29,
+          33,
+          57.636
+        ],
         "GPSAltitude": 0,
         "GPSLatitudeRef": "N",
         "GPSSpeed": 0,
@@ -2009,8 +2093,16 @@
         "GPSProcessingMethod": "network",
         "GPSSpeedRef": "K",
         "GPSLongitudeRef": "E",
-        "GPSTimeStamp": [12, 42, 58],
-        "GPSLongitude": [106, 34, 26.7384],
+        "GPSTimeStamp": [
+          12,
+          42,
+          58
+        ],
+        "GPSLongitude": [
+          106,
+          34,
+          26.7384
+        ],
         "GPSDateStamp": "2025:02:22"
       },
       "Iop": {
